@@ -16,6 +16,7 @@ tqdm = "^4.67.1"
 jupyter = "^1.1.1"
 feature-engine = "^1.8.2"
 scikit-learn = "1.5.2"
+sortedcontainers = "^2.4.0"
 
 [tool.poetry.group.dev.dependencies]
 ipykernel = "^6.29.5"
